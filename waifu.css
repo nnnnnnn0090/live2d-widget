@@ -84,6 +84,7 @@
 	right: -10px;
 	top: 70px;
 	transition: opacity 1s;
+	display: none;
 }
 
 #waifu:hover #waifu-tool {
